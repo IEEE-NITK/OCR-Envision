@@ -10,3 +10,5 @@ Sana Azmiya<br/>
 Madhav Kumar<br/>
 Darshan S<br/>
 Akhilesh P<br/>
+
+__NOTE:__ The file __OCR_Envision.ipynb__ conatins all the code along with documentation and outputs/images.
