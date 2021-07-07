@@ -1,12 +1,12 @@
 # OCR-Envision
 Training computers to read and understand handwritten English characters.
 
-Mentors
-Nishant Nayak
-Harshwardan Singh Rathore
+Mentors<\br>
+Nishant Nayak<\br>
+Harshwardan Singh Rathore<\br>
 
-Mentees
-Sana Azmiya
-Madhav Kumar
-Darshan S
-Akhilesh P
+Mentees<\br>
+Sana Azmiya<\br>
+Madhav Kumar<\br>
+Darshan S<\br>
+Akhilesh P<\br>
