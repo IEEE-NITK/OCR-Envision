@@ -1,5 +1,5 @@
 # OCR-Envision
-Training computers to read and understand handwritten English characters.
+Training computers to read and understand handwritten English characters and digits.
 
 __Mentors__<br/>
 Nishant Nayak<br/>
